@@ -11,3 +11,6 @@
 - # Create routes
 - Create authorsRouter, booksRouter and indexRouter
 - Update app.js with routes
+
+- # Create Controllers
+- Create userController
