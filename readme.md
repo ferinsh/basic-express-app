@@ -1,9 +1,9 @@
 # BASIC EXPRESS APP
 
-- # Initial Commit
+> - # Initial Commit
 
-- Create readme.md
+> - Create readme.md
 
-- # Create server
+> - # Create server
 
-- Create App.js 
+> - Create App.js 
